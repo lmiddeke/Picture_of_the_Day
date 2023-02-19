@@ -1,9 +1,3 @@
-//The user will enter a date. Use that date to get the NASA picture of the day from that date! https://api.nasa.gov/
-// api key:  phIdPOpkbDJ8hWnlYBqnutT9hOuMQQ5ypElUVsaS
-// bsp url: https://api.nasa.gov/planetary/apod?api_key=phIdPOpkbDJ8hWnlYBqnutT9hOuMQQ5ypElUVsaS
-
-
-
 document.querySelector('button').addEventListener('click', getFetch)
 
 function getFetch(){
